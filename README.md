@@ -137,7 +137,7 @@ Execution results are stored in the `Screenshots/` folder:
 🔹 **Submit the final project as a `.zip` file:**
 
 ```
-IT363_TerminalAssessment1_Lastname_Firstname.zip
+IT363_TerminalAssessment1_Bedia_LeidyAlecxia.zip
 ```
 
 🔹 **Submit via:** [MS Teams or University Portal]  
